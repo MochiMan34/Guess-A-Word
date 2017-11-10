@@ -1,0 +1,9 @@
+c:\users\mochibot\documents\visual studio 2017\Projects\HangmanGameProject\HangmanGameProject\bin\Debug\HangmanGameProject.exe.config
+c:\users\mochibot\documents\visual studio 2017\Projects\HangmanGameProject\HangmanGameProject\bin\Debug\HangmanGameProject.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\HangmanGameProject\HangmanGameProject\bin\Debug\HangmanGameProject.pdb
+c:\users\mochibot\documents\visual studio 2017\Projects\HangmanGameProject\HangmanGameProject\obj\Debug\HangmanGameProject.csprojResolveAssemblyReference.cache
+c:\users\mochibot\documents\visual studio 2017\Projects\HangmanGameProject\HangmanGameProject\obj\Debug\HangmanGameProject.Form1.resources
+c:\users\mochibot\documents\visual studio 2017\Projects\HangmanGameProject\HangmanGameProject\obj\Debug\HangmanGameProject.Properties.Resources.resources
+c:\users\mochibot\documents\visual studio 2017\Projects\HangmanGameProject\HangmanGameProject\obj\Debug\HangmanGameProject.csproj.GenerateResource.Cache
+c:\users\mochibot\documents\visual studio 2017\Projects\HangmanGameProject\HangmanGameProject\obj\Debug\HangmanGameProject.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\HangmanGameProject\HangmanGameProject\obj\Debug\HangmanGameProject.pdb
